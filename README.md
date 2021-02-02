@@ -9,4 +9,4 @@ Prior to executing:
 2) Configure your e-mail account for SMTP relay access
 3) Define the recipient in the script
 4) Encrypt your password using: EncryptString.ps1
-5) Transmit cats
+5) Transmit cat images
